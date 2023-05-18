@@ -1,0 +1,13 @@
+name = "Dartis-Craft SpiritualCraft v2.0"
+author = "DartisXUI"
+version = "2.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "95c0108e6d4c2a17c7dd302bb92e5d0000463a281c4318a53e23ddcdeda96d91"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"

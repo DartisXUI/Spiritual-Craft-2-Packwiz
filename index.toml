@@ -1,0 +1,5 @@
+hash-format = "sha256"
+
+[[files]]
+file = "options.txt"
+hash = "dad85fbfb4d6ccf0e845371741879524abdae43d4820fbcf7a20a4242b83ce64"
