@@ -1,13 +1,13 @@
 name = "OpenComputers"
-filename = "OpenComputers-MC1.12.2-1.8.0+9833087.jar"
+filename = "OpenComputers-MC1.12.2-1.8.1+d9204b8.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "57e259334d2a7d91d0716bde0db40d122fc4979b"
+hash = "0650f91d93d2c770ff501fdaba4aeb1a5f0b7bcb"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4526246
+file-id = 4559541
 project-id = 223008
