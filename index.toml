@@ -399,7 +399,7 @@ metafile = true
 
 [[files]]
 file = "mods/armory-expansion.pw.toml"
-hash = "58c4a939df6839e5b9e3c65b9111259a79e60da0f9f442fd7c6207253c5ed759"
+hash = "98ff97a3743b42d3a1237997ce7db804ca772dae2edbb8186d90516701ed7be5"
 metafile = true
 
 [[files]]
@@ -574,7 +574,7 @@ metafile = true
 
 [[files]]
 file = "mods/ender-io.pw.toml"
-hash = "24b6d6f854cefa26aa17bdbbbe1362d17d89619fe821ac98d0c3805071a9af07"
+hash = "cde76f6a6996baea5268266faa3d2bf93aba1e61f2e85c1811c383087bb20457"
 metafile = true
 
 [[files]]
@@ -644,7 +644,7 @@ metafile = true
 
 [[files]]
 file = "mods/hunting-dimension.pw.toml"
-hash = "803cd0e9c66a206c88e9fb1e3a65a2b3aae96c053a3eaaaf5af0e2ef20fe1c71"
+hash = "daccec4c429a0d28654fd62731620f0252d551e4175f824d6a100c1e1c61f534"
 metafile = true
 
 [[files]]
@@ -654,7 +654,7 @@ metafile = true
 
 [[files]]
 file = "mods/industrial-craft.pw.toml"
-hash = "cf2bcce0067e1628070c45dc39c70c0dc371e0d327cda1797484153e7144279e"
+hash = "43df33074b697543f59aa7e01351b2b437613ec50c07c49f5af2476bd5bb3906"
 metafile = true
 
 [[files]]
@@ -949,7 +949,7 @@ metafile = true
 
 [[files]]
 file = "mods/ruins-structure-spawning-system.pw.toml"
-hash = "b9c145af1fdba239dbe43fd646b9444453b60618b43945c6ecc6ac844b053411"
+hash = "038af7817472326b3139b6fd788d85d3af9380b0fbc95794164fbb07d04c0ed6"
 metafile = true
 
 [[files]]
