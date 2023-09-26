@@ -3,6 +3,8 @@
 //#Remove
 //Don't touch me!
 //#Add
+recipes.addShapeless(<extrautils2:compresseddirt>, [<prefab:block_compressed_dirt>]);
+recipes.addShapeless(<prefab:block_compressed_dirt>, [<extrautils2:compresseddirt>]);
 recipes.addShapeless(<minecraft:iron_ore>, [<minecraft:stone>,<ore:dustIron>,<ore:dustIron>,<ore:dustIron>]);
 recipes.addShapeless(<appliedenergistics2:material>, [<orecore:quartz>]);
 recipes.addShapeless(<appliedenergistics2:quartz_ore>, [<orecore:quartz_ore>]);
