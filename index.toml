@@ -346,7 +346,7 @@ hash = "e6c08afcfd38a22a039ef1d1ee3aed3a26c63f3ec022a616266ac153f6b44dba"
 
 [[files]]
 file = "config/simplerpg.cfg"
-hash = "b91348dbe29a2f37e9ebdfbaafe3d6dac47ac985d058ba8887b9e22a485d2d68"
+hash = "fa0579c6c5ec796bccbb65a2e142c7468023bffdc913720d06219a977b71dc37"
 
 [[files]]
 file = "config/tconstruct.cfg"
@@ -528,7 +528,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "1e55dda09d2d35dffef2ee61abf7bd47882b2703ecdbf2070ee420b84d05ef59"
+hash = "f8b6592784962bd9ea6ecd4cb948b5a6c7b96b538073da3564404ffffd4cdcec"
 metafile = true
 
 [[files]]
