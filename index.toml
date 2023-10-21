@@ -607,6 +607,11 @@ hash = "3b5ef81c27805786f2b7e53d12bbb5a7a9ec8eacf8c005dd3f657f731480796a"
 metafile = true
 
 [[files]]
+file = "mods/mcjtylib.pw.toml"
+hash = "46b6fe4b838212d19da58719e4782d0c54689f3cbec148921c41a3297f96caf6"
+metafile = true
+
+[[files]]
 file = "mods/mixinbootstrap.pw.toml"
 hash = "042225fa484051292c770a8b22003e8b02cb70bb5ece75277fc6db2e7c9f4a83"
 metafile = true
@@ -677,11 +682,6 @@ hash = "31bbc6945bfacffcf758667208d4a48865f1db6f1ab7e1c748d2721874a17ccc"
 metafile = true
 
 [[files]]
-file = "mods/project-intelligence.pw.toml"
-hash = "6a1fdbd82220623df973bbff92795fe3bb91356a60d63f71c314e4700e6385cc"
-metafile = true
-
-[[files]]
 file = "mods/project-red-compat.pw.toml"
 hash = "9e26a0599000e5c66a5836ae043123524c492fa6b2e2274646692947acec224a"
 metafile = true
@@ -714,6 +714,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "2e9648786a8cf14889eeac19283e7b534be2195d8c6f8de292d0af4071802f31"
+metafile = true
+
+[[files]]
+file = "mods/reborncore.pw.toml"
+hash = "210ac01b61f9b387b1406c05b788d2dafae7c261756d814b27ba99400391865b"
 metafile = true
 
 [[files]]
