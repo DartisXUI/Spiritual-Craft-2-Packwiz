@@ -352,8 +352,18 @@ hash = "6a0db64ad6caf2d910fa52020c0eaf7ae3bcd5558693ad59dd5378fb830c2c06"
 metafile = true
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "d82215725e90de90b17ccc70c15825fc6b2c74100f1e26464ef17391b61d68f3"
+metafile = true
+
+[[files]]
 file = "mods/akashic-tome.pw.toml"
 hash = "965be564aa6d4f69905817140576e58a42a69b2e6ffc881c800b8d8f790c77bb"
+metafile = true
+
+[[files]]
+file = "mods/applecore.pw.toml"
+hash = "840faece1c6e2411435603e97b90e6e7d2e939cd1f0faecd251c6a95d06b7ea4"
 metafile = true
 
 [[files]]
@@ -387,6 +397,11 @@ hash = "6358f2a21ef9d5600e9401569525f243ba076deeb6acded99ac12dc490646f23"
 metafile = true
 
 [[files]]
+file = "mods/base.pw.toml"
+hash = "a177b39c27d5529675c2af3a83529a69a2067eefa76e9ffa80e8f642ac9d839f"
+metafile = true
+
+[[files]]
 file = "mods/baubles.pw.toml"
 hash = "2cc5f913400c0dfe460173edd1e5d9475a09774caf228f41c3e39eba252a7a19"
 metafile = true
@@ -394,6 +409,11 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "7a812e6a1d2e45df6d44834a1fbb5358e7222fed21739601abef5d6bbe00cd97"
+metafile = true
+
+[[files]]
+file = "mods/betterfps.pw.toml"
+hash = "3be157f6924a51edca3ade05d9a2c9e16e13e376c874fa6eecb11d0bf6c0a2db"
 metafile = true
 
 [[files]]
@@ -429,6 +449,11 @@ metafile = true
 [[files]]
 file = "mods/chisels-bits.pw.toml"
 hash = "ebb08e770587df2f24474edcedde20842993ab136cb458cd99ceda650e4b9acf"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "2acbe0f770a8303ecea88bc3ceef4ea6f76cb69206f15229647fb4773f0d9198"
 metafile = true
 
 [[files]]
@@ -507,6 +532,11 @@ hash = "751db9d136970e9b4744ce00eea1937644f10710173c82dfde06b373748e5a57"
 metafile = true
 
 [[files]]
+file = "mods/fast-leaf-decay.pw.toml"
+hash = "cd43c995d3b2f2095d27c5ca40cef005adff2dc07a827c7b9a6aff4a14438ffe"
+metafile = true
+
+[[files]]
 file = "mods/foamfix-optimization-mod.pw.toml"
 hash = "9ebf99a09414c38e4959b828266d83d3983366e1694d0bb901125a85121e97de"
 metafile = true
@@ -539,6 +569,11 @@ metafile = true
 [[files]]
 file = "mods/iron-chests.pw.toml"
 hash = "f5e51601becf4c9f8878530d40cd2ecf232e89e5d9fae6218959a15eee12417d"
+metafile = true
+
+[[files]]
+file = "mods/ivtoolkit.pw.toml"
+hash = "1ce21898ee51d69f97aa0456f339965c7c6763b34853a25de72b30a1e23f42da"
 metafile = true
 
 [[files]]
@@ -704,6 +739,11 @@ metafile = true
 [[files]]
 file = "mods/reborncore.pw.toml"
 hash = "210ac01b61f9b387b1406c05b788d2dafae7c261756d814b27ba99400391865b"
+metafile = true
+
+[[files]]
+file = "mods/recurrent-complex.pw.toml"
+hash = "e57ec26a99b78330ea19d3febd1185ea6de547d7ed11d624c482dbe1e3814f3f"
 metafile = true
 
 [[files]]
