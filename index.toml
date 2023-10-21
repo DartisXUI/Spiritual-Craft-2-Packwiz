@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/GeneticsReborn/GeneticsReborn.cfg"
-hash = "4066dfb3aaf97f8f06c3966caaef356a70003bf7dcea21e78db2ce58fd18987f"
-
-[[files]]
 file = "config/IC2.ini"
 hash = "8e17bfb255616c4c65288c127ceaab63a0ebf33cd76e4898f5be4faf6fb9b018"
 
@@ -29,10 +25,6 @@ file = "config/cofh/world/galacticores-109-above-cofh-world.json"
 hash = "31733f8c5823b4296075b290f43ee18e8da657dd92e203d2acd5236922530dc3"
 
 [[files]]
-file = "config/enderio/recipes/user/user_recipes.xml"
-hash = "b1a1e2919e06530615ee214dab0298bdd085715e5462f7ac2a8915c410de0e05"
-
-[[files]]
 file = "config/enderstorage.cfg"
 hash = "0e768f6d9d9275564e12c41e0364cc3f0b98b6d2a1715af31509c1d577860853"
 
@@ -45,10 +37,6 @@ file = "config/ftbutilities.cfg"
 hash = "7cb1de8d6fbc4ea1955d059676e39b07545f1e119846c4bfe8beb5c9f0b1bd32"
 
 [[files]]
-file = "config/heroesexpansion.cfg"
-hash = "a2cda1b58167c61a4ef3a41215b4d48f83d11a3b8735a9d1bb4b6b80089854ec"
-
-[[files]]
 file = "config/huntingdim/huntingdim.cfg"
 hash = "90fefa72f012e5c41b4f3fa1320cdbb0e0bd780c00702ceff7d5dd67c8840c1a"
 
@@ -57,16 +45,8 @@ file = "config/ic2/shaped_recipes.ini"
 hash = "caebe3a5cebd5cf9278f89dd35c8e31a767c5f17fe32463e0ed3b0159ab79a5a"
 
 [[files]]
-file = "config/lucraftcore.cfg"
-hash = "d3f9eba29cd99b84467bc379b64f922c41f3576d407d77b171606d8e820c16e1"
-
-[[files]]
 file = "config/microblocks.cfg"
 hash = "144cb0b0995f8f60927355eb91fd2d774a9f0fe72c19896fcde59fe4991776bb"
-
-[[files]]
-file = "config/mysticalagradditions.cfg"
-hash = "0476ebf682f046df1fee071557b912428b9d4df05c7f71322f9ffba0fcbb8c23"
 
 [[files]]
 file = "config/natura.cfg"
@@ -542,6 +522,11 @@ hash = "b3bf53323fcae0f8647ce23c60fffc003abcd315ece3772822f3130d7d5cd52f"
 metafile = true
 
 [[files]]
+file = "mods/hunting-dimension.pw.toml"
+hash = "daccec4c429a0d28654fd62731620f0252d551e4175f824d6a100c1e1c61f534"
+metafile = true
+
+[[files]]
 file = "mods/ichunutil.pw.toml"
 hash = "e84b408fe657d70ce1292d146ebfa510843327453d245d5694de3a434ad482bd"
 metafile = true
@@ -829,7 +814,3 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "dad85fbfb4d6ccf0e845371741879524abdae43d4820fbcf7a20a4242b83ce64"
-
-[[files]]
-file = "scripts/recipes.zs"
-hash = "008dbb6973ae4d1c370925dbd859904a92aad6db4e6d5b9d844a5a920f0077c4"
